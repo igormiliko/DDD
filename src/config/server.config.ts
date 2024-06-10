@@ -7,7 +7,7 @@ export default {
     ███████║██████╔╝██║
     ██╔══██║██╔═══╝ ██║
     ██║  ██║██║     ██║ V${_package.version}
-     ╚═╝  ╚═╝╚═╝     ╚═╝
+    ╚═╝  ╚═╝╚═╝     ╚═╝
    `,
   runningOn: (ip: string, port: number) =>
     `\tServer turn on and running in: \n\n` +
